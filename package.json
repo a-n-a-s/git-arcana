@@ -1,2 +1,9 @@
-{ \"name\": \"rainbow-room\", \"version\": \"1.0.0\" }  
-"Update dependencies"  
+name: Rainbow Room Challenge
+version: 1.0.0
+description: A challenging Git adventure through rainbow-colored branches
+
+scripts:
+  test: echo "Running tests..."
+
+dependencies:
+  git-arcana-core: ^1.0.0
